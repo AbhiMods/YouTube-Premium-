@@ -1,6 +1,11 @@
+{
+   "force_update":false,
+   "version":11,
+   "changelog":"
 >Added Short Video Comments Copy
 >Added Dislike Button
 >Added Download Settings
 >Added SponsorBlock Settings
 >Base Update 17.04.36
 >Bugs Fixed
+}
